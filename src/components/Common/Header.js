@@ -5,7 +5,7 @@ class Header extends Component{
         return(
             <div>
                 {/* <!-- Header --> */}
-                <header className="masthead" style={{backgroundImage: this.props.image}}>
+                <header className="masthead" style={{backgroundImage: `url(${this.props.image})`}}>
                     <div className="container">
                     <div className="intro-text">
                         <div className="intro-lead-in">{this.props.title}</div>
