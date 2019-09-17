@@ -7,7 +7,7 @@ class About extends Component{
             <div>
                 <Header
                 title="About Us"
-                subtitle="Hope you find what you searching for"
+                subtitle="We have a great story"
                 buttonText="Tell me More"
                 link="/services"
                 showButton={false}
