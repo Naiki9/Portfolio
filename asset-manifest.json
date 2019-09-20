@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.34de6062.chunk.css",
+    "main.js": "/portfolio/static/js/main.e32153d9.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.e32153d9.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f7d4dbe8.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f7d4dbe8.js.map",
+    "static/js/2.877e2868.chunk.js": "/portfolio/static/js/2.877e2868.chunk.js",
+    "static/js/2.877e2868.chunk.js.map": "/portfolio/static/js/2.877e2868.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.e8a21250e27fd982e06cd36fe91b571d.js": "/portfolio/precache-manifest.e8a21250e27fd982e06cd36fe91b571d.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/portfolio/static/css/main.34de6062.chunk.css.map",
+    "static/media/bootstrap.png": "/portfolio/static/media/bootstrap.73844123.png",
+    "static/media/css.png": "/portfolio/static/media/css.1651ac0d.png",
+    "static/media/figma.png": "/portfolio/static/media/figma.1706c9f1.png",
+    "static/media/header-bg.jpg": "/portfolio/static/media/header-bg.a66b9be1.jpg",
+    "static/media/header-bgc.jpg": "/portfolio/static/media/header-bgc.e2d2a51c.jpg",
+    "static/media/ionic.png": "/portfolio/static/media/ionic.ca522180.png",
+    "static/media/java.png": "/portfolio/static/media/java.652fdb65.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.e068a7fe.png",
+    "static/media/mdb.png": "/portfolio/static/media/mdb.076aee3c.png",
+    "static/media/php.png": "/portfolio/static/media/php.6d390c1e.png",
+    "static/media/react.png": "/portfolio/static/media/react.88b5e0ec.png",
+    "static/media/uiux.jpeg": "/portfolio/static/media/uiux.b01ac5a0.jpeg",
+    "static/media/webdesign.jpeg": "/portfolio/static/media/webdesign.bb85524f.jpeg",
+    "static/media/webdev.jpeg": "/portfolio/static/media/webdev.7569ea2e.jpeg"
+  }
+}
