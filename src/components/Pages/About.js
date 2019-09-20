@@ -72,18 +72,18 @@ class About extends Component{
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                <h4>July 2014</h4>
-                                <h4 class="subheading">Phase Two Expansion</h4>
+                                <h4>July 2012</h4>
+                                <h4 class="subheading">Aced High school </h4>
                                 </div>
                                 <div class="timeline-body">
-                                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                <p class="text-muted">Graduated from St. Gregory's College Ikoyi</p>
                                 </div>
                             </div>
                             </li>
                             <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <h4>Be Part
-                                <br/>Of Our
+                                <h4>I have
+                                <br/>a great
                                 <br/>Story!</h4>
                             </div>
                             </li>

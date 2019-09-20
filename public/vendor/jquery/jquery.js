@@ -10592,7 +10592,12 @@ if ( !noGlobal ) {
 }
 
 
-
+  /*7. sticky sidebar */
+  $('.sidebar').stickySidebar({
+    topSpacing: 120,
+    bottomSpacing: 120,
+    minWidth: 992,
+});
 
 return jQuery;
 } );
